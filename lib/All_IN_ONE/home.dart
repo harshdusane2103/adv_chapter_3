@@ -28,7 +28,7 @@ class HomeScreen extends StatelessWidget {
               height: 10,
             ),
             Text(
-              'Book Flights Tickets Now ',
+              'Book Flights Tickets Now',
               style: TextStyle(fontSize: 24, color: Colors.red),
             ),
             Expanded(
