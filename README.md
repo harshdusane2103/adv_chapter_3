@@ -6,7 +6,7 @@
 <h1 align="center">All In One APP </h1>
 
 <div align="center">
-<img src="https://github.com/harshdusane2103/adv_chapter_3/blob/master/flight.png"heigth=35%,width=21%>
+<img src="https://github.com/harshdusane2103/adv_chapter_3/blob/master/flight.png", width=21%,height=35%>
 </div>
 <div align="center">
 <video src="https://github.com/user-attachments/assets/bff1f853-0d17-4d8d-a079-24afee5f3858">
